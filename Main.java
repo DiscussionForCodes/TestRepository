@@ -1,6 +1,4 @@
 
-
-
 public class Main {
     public static void hanseulFunction(int a, int b){
         System.out.printf("%d + %d = %d", a, b, a+b);
